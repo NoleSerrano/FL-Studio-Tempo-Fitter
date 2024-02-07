@@ -31,3 +31,5 @@ XButton2:: ; Mouse5
     SendInput, {Enter}
     MouseMove, OriginalX, OriginalY ; Original position
 return
+
+!z::Suspend
